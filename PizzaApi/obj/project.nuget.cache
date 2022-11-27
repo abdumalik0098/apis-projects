@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3I2lFuG1HR4gzsOyxU6nFuQBoSfFhDPss6393ASxdO2Zm4S7SLdVIybsiHtzit9yVkXcaxhrhKoqX2oHnefLA==",
+  "success": true,
+  "projectFilePath": "D:\\_WorkPlace\\#1 Разработка\\_ProjectsBackend\\API\\PizzaApi\\PizzaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fisabeel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fisabeel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Fisabeel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Fisabeel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Fisabeel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Fisabeel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

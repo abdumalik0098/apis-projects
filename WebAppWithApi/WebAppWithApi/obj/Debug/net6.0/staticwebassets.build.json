@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "C+DNmTHsbYAQiQXyuldp1reHsJKNwhUj1ZXTJY36HqM=",
+  "Source": "WebAppWithApi",
+  "BasePath": "_content/WebAppWithApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAppWithApi\\wwwroot",
+      "Source": "WebAppWithApi",
+      "ContentRoot": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\API\\WebAppWithApi\\WebAppWithApi\\wwwroot\\",
+      "BasePath": "_content/WebAppWithApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\API\\WebAppWithApi\\WebAppWithApi\\wwwroot\\index.html",
+      "SourceId": "WebAppWithApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\API\\WebAppWithApi\\WebAppWithApi\\wwwroot\\",
+      "BasePath": "_content/WebAppWithApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+nT32vwwyBMoCBYRWYlhG4sfZrWvufEX4sJx0t29FRI=",
+  "Source": "WebAppREST",
+  "BasePath": "_content/WebAppREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

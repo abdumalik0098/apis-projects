@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ojXRW3G+RxbSXWE6huYKQEEXmQnJDVhp/N07ZbVgPz4=",
+  "Source": "WebAppMinimalApi",
+  "BasePath": "_content/WebAppMinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
